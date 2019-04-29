@@ -1,3 +1,4 @@
 uno.txt
-linea 1 uno.txt
-linea 2 uno.txt
+linea 1 uno.txt uno.txt
+lineas 3
+
