@@ -1,0 +1,3 @@
+dos.txt
+linea 1 dos.txt
+linea 2 dos.txt
